@@ -1,0 +1,15 @@
+.wy-nav-content {
+    max-width: 1200px !important;
+}
+
+div.math {
+    position: relative;
+}
+
+/* Equation number */
+div.math .eqno {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
