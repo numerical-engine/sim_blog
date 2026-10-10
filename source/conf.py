@@ -42,3 +42,10 @@ myst_enable_extensions = [
     "amsmath",
     "dollarmath",
 ]
+
+numfig = True
+numfig_format = {
+    "figure": "図%s",
+    "table": "表%s",
+    "code-block": "コード%s",
+}
